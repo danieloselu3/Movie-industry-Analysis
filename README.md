@@ -39,7 +39,7 @@ This analysis leads to a couple of recommendations for gettting into the movie i
 
 - **The right time to Release the movies to the cinemas/public** the second quater of the year, `April-June` is the best time of the year to release the movies, followed by `September-December`.
 
-![most popular release quater](images/most_popular-release_quater.png)
+![most popular release quater](images/Most%20popular%20Quater%20of%20year.png)
 
 ## NEXT STEPS
 With the above analysis, the next steps to mmake our analysis whole can include:
