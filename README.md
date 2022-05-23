@@ -2,7 +2,7 @@
 **Author:** [Daniel Omondi Oselu](https://github.com/danieloselu3)
 
 ## OVERVIEW
-For this project, we will use exploratory data analysis to generate insights about some of the best performing movies in the Box office between 2010 and 2022
+For this project, we will use exploratory data analysis to generate insights about some of the best performing movies in the Box office between 2010 and 2020
 
 ## BUSINESS PROBLEM
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. 
